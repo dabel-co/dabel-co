@@ -18,7 +18,7 @@
 [![dabel-o 42 stats](https://badge42.herokuapp.com/api/stats/dabel-co?privacyEmail=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<a href="https://linkedin.com/in/whatever">
+<a href="https://github.com/dabel-co">
   <img align="left" alt="David's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.42.fr/">
