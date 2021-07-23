@@ -1,4 +1,4 @@
-### Hey, I'm David! Software Engineering Student at 42 Madrid
+### Hey, I'm David! Software engineering student at 42 Madrid
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![C](https://img.shields.io/static/v1?logo=C&label=&message=&nbsp;&color=111&logoColor=AAA&style=flat-square)
