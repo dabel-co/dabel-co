@@ -25,7 +25,7 @@
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [HeyImDavid.net](http://heyimdavid.net) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "something something 20%”
+| &nbsp;&nbsp;&nbsp; Website : [HeyImDavid.net](http://heyimdavid.net) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 
 
