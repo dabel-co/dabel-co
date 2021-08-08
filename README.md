@@ -15,7 +15,7 @@
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
 ---
-[![dabel-o 42 stats](https://badge42.herokuapp.com/api/stats/dabel-co?privacyEmail=true&privacyName=false)](https://github.com/JaeSeoKim/badge42)
+[![dabel-o 42 stats](https://badge42.herokuapp.com/api/stats/dabel-co?privacyEmail=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 ---
 
 <a href="https://github.com/dabel-co">
