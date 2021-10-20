@@ -3,7 +3,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![C](https://img.shields.io/static/v1?logo=C&label=&message=&nbsp;&color=111&logoColor=AAA&style=flat-square)
 ![planning](https://img.shields.io/static/v1?label=&message=planning:&color=555&style=flat-square)
-![C++](https://img.shields.io/static/v1?logo=Cplusplus&label=&message=C➕➕&color=111&logoColor=AAA&style=flat-square)
+![C++](https://img.shields.io/static/v1?logo=Cplusplus&label=&message=C＋＋&color=111&logoColor=AAA&style=flat-square)
 ![Ruby](https://img.shields.io/static/v1?logo=Ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square)
 
