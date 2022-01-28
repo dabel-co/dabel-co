@@ -3,12 +3,13 @@
 ![planning](https://img.shields.io/static/v1?label=&message=planning:&color=555&style=flat-square)
 ![C++](https://img.shields.io/static/v1?logo=Cplusplus&label=&message=C＋＋&color=111&logoColor=AAA&style=flat-square)
 ![Ruby](https://img.shields.io/static/v1?logo=Ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
-![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square)
+![TypeScript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=111&logoColor=AAA&style=flat-square)
+![Go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=111&logoColor=AAA&style=flat-square)
+![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=111&logoColor=AAA&style=flat-square)
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
-![Photoshop](https://img.shields.io/static/v1?logo=adobephotoshop&label=&message=photoshop&color=111&logoColor=AAA&style=flat-square)
 ![planning](https://img.shields.io/static/v1?label=&message=planning:&color=555&style=flat-square)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
@@ -21,4 +22,4 @@
 </a>
 <a href="https://www.42.fr/">
 <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" />
-</a>
+</a> 
