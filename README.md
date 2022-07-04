@@ -13,7 +13,6 @@
 ![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
 --
 [![dabel-co's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1ar6d3q001109js4aazmc5m?cursusId=21)](https://github.com/JaeSeoKim/badge42)
-[![Google Cloud Certified Associate Cloud Engineer badge](https://raw.githubusercontent.com/olliefr/olliefr/master/google-cloud-certified-associate-cloud-engineer.png)](https://www.credential.net/e86d5bfb-a57e-49ec-9132-1b0f8e7c08cf) &emsp;
 --
 
 <a href="https://github.com/dabel-co">
