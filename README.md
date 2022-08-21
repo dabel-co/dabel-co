@@ -15,7 +15,7 @@
 [![dabel-co's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1ar6d3q001109js4aazmc5m?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 --
 
-<a href="https://github.com/dabel-co">
+<a href="www.linkedin.com/in/da-abel">
   <img align="left" alt="David's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.42.fr/">
