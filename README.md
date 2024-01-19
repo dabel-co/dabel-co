@@ -8,7 +8,6 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 ![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
 --
-[![dabel-co's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1ar6d3q001109js4aazmc5m?cursusId=21)](https://github.com/JaeSeoKim/badge42)
---
+
 
 
