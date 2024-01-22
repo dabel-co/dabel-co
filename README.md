@@ -23,7 +23,7 @@
 <a href="https://www.42network.org">
   <img align="left" alt="42" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" />
 </a>
-<a href="www.linkedin.com/in/da-abel">
+<a href="https://www.linkedin.com/in/da-abel/">
   <img align="left" alt="LinkedIn" width="25px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
