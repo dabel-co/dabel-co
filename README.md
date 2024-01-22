@@ -9,6 +9,7 @@
 ![C++](https://img.shields.io/static/v1?logo=Cplusplus&label=&message=C＋＋&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 ![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
