@@ -28,4 +28,4 @@
 </a>
 
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [comming soon...](google.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+| &nbsp;&nbsp;&nbsp; Website & Gallery : wip &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
