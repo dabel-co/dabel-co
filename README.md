@@ -28,4 +28,4 @@
 </a>
 
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : wip &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [0x2a.cx](http://0x2a.cx)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
